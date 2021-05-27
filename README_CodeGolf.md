@@ -1,3 +1,5 @@
 # コードゴルフ
 ## 問題
-CodeGolf.javaに書いてあるfor文の中を書き換えて、コードを短くしてください。
+CodeGolf.javaを書き換えて、コードを短くしてください。
+
+※CodeGolf.javaで完結させること
